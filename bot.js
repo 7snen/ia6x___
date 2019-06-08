@@ -5,10 +5,10 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Cyhper Bot Script By : DREAM`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : x_ike ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`I am Cute ! `,"http://twitch.tv/Dream")
+client.user.setGame(`$ I Don't Give a SHIT $ ! `,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
